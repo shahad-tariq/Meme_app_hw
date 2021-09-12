@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Meme_app_hw</string>
+
+    <array name="meme_name">
+        <item>Bah Humbug</item>
+        <item>10 Guy</item>
+        <item>1950s Middle Finger</item>
+        <item>1st World Canadian Problems</item>
+        <item>2nd Term Obama</item>
+        <item>Ace Primo</item>
+        <item>Actual Advice Mallard</item>
+        <item>Adalia Rose</item>
+        <item>Admiral Ackbar Relationship Expert</item>
+        <item>Advice Dog</item>
+        <item>Advice God</item>
+        <item>Advice Peeta</item>
+        <item>Advice Tam</item>
+        <item>Advice Yoda</item>
+        <item>Afraid To Ask Andy</item>
+        <item>Afraid To Ask Andy Closeup</item>
+        <item>Aint Nobody Got Time For That</item>
+        <item>Alan Greenspan</item>
+        <item>Alarm Clock</item>
+        <item>Albert Cagestein</item>
+        <item>Aint Nobody Got Time For That</item>
+        <item>Alan Greenspan</item>
+        <item>Alarm Clock</item>
+        <item>Albert Cagestein</item>
+        <item>Alright Gentlemen We Need A New Idea</item>
+        <item>Always Has Been</item>
+        <item>Alyssa Silent Hill</item>
+        <item>Am I The Only One Around Here</item>
+        <item>Angry Chef Gordon Ramsay</item>
+        <item>Angry Chicken Boss</item>
+        <item>Angry Dumbledore</item>
+        <item>Angry Chicken Boss</item>
+        <item>Baby Insanity Wolf</item>
+    </array>
+
+</resources>
